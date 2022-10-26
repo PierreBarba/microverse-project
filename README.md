@@ -1,23 +1,28 @@
-Project Name: Microverse_project
+# Hello Microverse
 
-this is my first proyect to microverse in this proyect i worked with linters and action, created comits and practice with github.
+>this is my first proyect to microverse in this proyect i worked with linters and action, created comits and practice with github.
 
-Built With: html/css and dependence.
-Major languages:css/html.
-Technologies used: git/github/vsc
+## Built With
 
-
-Prerequisites: linters/comits/html/css.
-
-👤 Pierre Barba Arredondo
+- HTML
+- CSS
 
 
-GitHub: https://github.com/PierreBarba
-Twitter: @pierrebarba
-LinkedIn: pierreBarba
+## Authors
 
-Show your support
+👤 **Pierre Barba Arredondo**
+
+- GitHub: [@githubhandle](https://github.com/PierreBarba)
+- Twitter: [@twitterhandle](@pierrebarba)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-📝 License
-This project is MIT licensed.
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
